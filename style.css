@@ -661,21 +661,6 @@ a:focus {
  * 6.2 Menus
  */
 
- // Start jackrabbit edit
- .main-menu--donate{
-    background-color: #106C5C;
-    width: 80px;
-    border-radius: 10px;
-    margin-left: -10px;
-    font-weight: bold;
- }
-
- .main-menu--donate a{
- 	color: white;
- 	padding: 12px;
- }
- // End Jackrabbit edit
-
 .main-navigation a {
 	display: block;
 	padding: 0.8em 0;
